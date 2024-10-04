@@ -9,11 +9,11 @@
 
 - 👨‍💻 Currently working on **Realtime sign language conversion to text**
 
-- 👨‍💻 My personal portfolio website [https://LitZeus.vercel.app](https://LitZeus.vercel.app)
+- 👨‍💻 My personal portfolio website [https://LitZeus.vercel.app](https://tejasathalye.vercel.app)
 
 - 💬 Ask me about **AI, ML, or Python!**
 
-- 📫 How to reach me **me.LitZeus@gmail.com**
+- 📫 How to reach me **[me.tejasathalye@gmail.com](mailto:tejasathalye.vercel.app)**
 
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you’re also the murderer.**
 
