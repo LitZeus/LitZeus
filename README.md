@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working on **Realtime sign language conversion to text**
 
-- 👨‍💻 My personal portfolio website [https://LitZeus.vercel.app](https://tejasathalye.vercel.app)
+- 👨‍💻 My personal portfolio website [https://tejasathalye.vercel.app](https://tejasathalye.vercel.app)
 
 - 💬 Ask me about **AI, ML, or Python!**
 
