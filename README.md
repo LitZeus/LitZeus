@@ -1,24 +1,37 @@
 ## Hey 👋, I'm Tejas!
-<a href='https://linkedin.com/in/LitZeus'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://instagram.com/artist.tejas_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://linkedin.com/in/LitZeus'><img align='left' alt="linkedin" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height='30px'/></a>
+<a href='https://instagram.com/artist.tejas_'><img align='left' alt="instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height='30px'/></a>
 
 <br />
+<br />
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+
+I am a versatile professional with a passion for **open-source contributions**, always eager to tackle challenges and solve problems creatively. Whether working as a **Full Stack Web Developer** 🌐, or **Machine Learning Engineer** 🤖, I thrive in dynamic environments where I can leverage my skills in **Web Development**, **AI/ML**, and **Python**.
+
+I have a strong commitment to continuous learning, constantly exploring new technologies and methodologies to stay at the forefront of the tech landscape. My goal is to apply my knowledge and experience to build impactful solutions and contribute to meaningful projects.
+
+
 <br/>
-<br/>
+<div style="display: flex; align-items: flex-start;">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+  <div style="margin-right: 50px;">
+    <img align="right" alt="GIF" src=https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif left-padding="10px" width="280px"/>
+  </div>
 
-- 🔭 &nbsp; I’m currently working on **Detection of Varicose Veins using Deep Learning**
-- 🌱 &nbsp; I’m currently learning APIs; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LitZeus?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tejasathalye)
-- 📝 &nbsp; Checkout my [resume](https://tejasathalye.vercel.app/resume.pdf)
-- 📚 &nbsp; I like to make pencil sketchs, you can check me out on [Instagram](https://www.instagram.com/artist.tejas_/) 
+  <div>
+    <h3>🧐 More About Me:</h3>
+    <ul>
+      <li>🔭 &nbsp; I’m currently working on <strong>Detection of Varicose Veins using Deep Learning</strong></li>
+      <li>🌱 &nbsp; I’m currently learning <strong>APIs</strong></li>
+      <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/LitZeus?tab=repositories">Github</a></li>
+      <li>💬 &nbsp; Ask me about anything tech related; I am happy to help</li>
+      <li>📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/tejasathalye">LinkedIn</a></li>
+      <li>📝 &nbsp; Checkout my <a href="https://tejasathalye.vercel.app/resume.pdf">Resume</a></li>
+      <li>📚 &nbsp; I like to make pencil sketches; you can check me out on <a href="https://www.instagram.com/artist.tejas_/">Instagram</a></li>
+    </ul>
+  </div>
+
+</div>
 
 <br>
 
@@ -89,10 +102,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LitZeus&show_icons=true&locale=en" alt="LitZeus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LitZeus&" alt="LitZeus" /></p>
+<div align="center" style="overflow: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LitZeus&show_icons=true&locale=en" alt="LitZeus" height='180px' style="float: left; margin-right: 40px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LitZeus&" alt="LitZeus" height='180px' style="float: left;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LitZeus&icon=5&color=5)](https://visitcount.itsvg.in)
 
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=LitZeus&icon=5&color=5)](https://visitcount.itsvg.in)
+</div>
