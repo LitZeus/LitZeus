@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Tejas!
-<a href='https://linkedin.com/in/LitZeus'><img align='left' alt="linkedin" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height='30px'/></a>
+<a href='https://linkedin.com/in/tejasathalye'><img align='left' alt="linkedin" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height='30px'/></a>
 <a href='https://instagram.com/artist.tejas_'><img align='left' alt="instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height='30px'/></a>
 
 <br />
