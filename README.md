@@ -103,8 +103,8 @@ I have a strong commitment to continuous learning, constantly exploring new tech
 # 📊 GitHub Stats:
 
 <div align="center" style="overflow: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LitZeus&show_icons=true&locale=en" alt="LitZeus" height='180px' style="float: left; margin-right: 40px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LitZeus&" alt="LitZeus" height='180px' style="float: left;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LitZeus&show_icons=true&locale=en" alt="LitZeus" height='150px' style="float: left; margin-right: 40px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LitZeus&" alt="LitZeus" height='150px' style="float: left;"/>
 </div>
 
 ---
