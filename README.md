@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Tejas!
-<p align='left'>
-  <a href='https://linkedin.com/in/tejasathalye'><img alt="linkedin" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height='30px'/></a>
-  <a href='https://instagram.com/artist.tejas_'><img alt="instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height='30px'/></a>
-</p>
 
-<br/>
+<p align='left'>
+  <a href='https://linkedin.com/in/tejasathalye'><img alt="linkedin" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height='40px'/></a>
+  <a href='https://instagram.com/artist.tejas_'><img alt="instagram" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height='40px'/></a>
+  <a href='mailto:me.tejasathalye@gmail.com'><img alt="email" src="https://img.icons8.com/?size=100&id=6BBCqlzE4iKd&format=png&color=000000" height='40px'/></a>
+</p>
 
 I am a versatile professional with a passion for **open-source contributions**, always eager to tackle challenges and solve problems creatively. Whether working as a **Full Stack Web Developer** 🌐, or **Machine Learning Engineer** 🤖, I thrive in dynamic environments where I can leverage my skills in **Web Development**, **AI/ML**, and **Python**.
 
